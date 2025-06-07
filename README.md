@@ -4,7 +4,7 @@
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
----More actions
+---
 
 ## 🎯 About Me
 
