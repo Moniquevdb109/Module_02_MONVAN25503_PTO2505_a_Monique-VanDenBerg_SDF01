@@ -66,6 +66,6 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://https://github.com/Moniquevdb109)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Moniquevdb109)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/monique-van-den-berg)  
-📧 Email: [(moniquevdb109@gmail.com]
+📧 Email: [moniquevdb109@gmail.com]
