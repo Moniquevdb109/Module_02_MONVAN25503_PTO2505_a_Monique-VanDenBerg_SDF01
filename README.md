@@ -61,3 +61,11 @@ Here are some of my milestone projects (to be updated as I progress!):
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
+
+---
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+📧 Email: [youremail@example.com](mailto:youremail@example.com)
