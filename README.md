@@ -53,3 +53,11 @@ Here are some of my milestone projects (to be updated as I progress!):
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** ⏳ In Progress
+
+---
+
+## 📚 Learning Goals
+
+- 🚀 Get comfortable using Git and GitHub
+- 🎨 Learn HTML, CSS, and JavaScript
+- 💡 Build real-world projects and collaborate with others
