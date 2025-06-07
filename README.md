@@ -69,3 +69,15 @@ Here are some of my milestone projects (to be updated as I progress!):
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Moniquevdb109)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/monique-van-den-berg)  
 📧 Email: [moniquevdb109@gmail.com]
+
+---
+
+## 🚀 Fun Fact
+
+💡 I love learning new things and can't wait to build my first website!
+
+---
+
+## 🏆 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
